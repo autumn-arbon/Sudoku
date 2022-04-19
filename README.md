@@ -11,7 +11,9 @@ When you click the hint button, all incorrect numbers will turn red and 2 new nu
 When a new season is selected, the background pictures and colors will change to reflect the selection.
 ![Winter season](https://github.com/autumn-arbon/Sudoku/blob/master/sudoku-pictures/winter.png)
 
+## Change Sudoku Board Data
 To change the filepath for the sudoku boards, go to line 266 in Board.java.
 
+## References
 Methods solve() and isSafe() are referenced from https://www.geeksforgeeks.org/sudoku-backtracking-7/
 They are used to help solve the sudoku boards.

@@ -1,5 +1,8 @@
 # Sudoku
 
+## Setup
+To run the sudoku game, download all files in the src folder and run the code in Board.java.
+
 ## Initial Window
 ![Beginning setup](https://github.com/autumn-arbon/Sudoku/blob/master/sudoku-pictures/fall-beginning.png)
 

@@ -1,5 +1,7 @@
 # Sudoku
 
+![Beginning setup](https://github.com/autumn-arbon/Sudoku/blob/master/sudoku-pictures/fall-beginning.png)
+
 To change the filepath for the sudoku boards, go to line 266 in Board.java.
 
 Methods solve() and isSafe() are referenced from https://www.geeksforgeeks.org/sudoku-backtracking-7/
